@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: IT481_Unit3_MichaelSmith
+Bundle-SymbolicName: IT481_Unit3_MichaelSmith
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: IT481_Unit3_MichaelSmith.jar,
+ Microsoft JDBC/sqljdbc_9.2/enu/mssql-jdbc-9.2.1.jre15.jar
+Automatic-Module-Name: IT481.Unit3.MichaelSmith
+Export-Package: com.guiassignment
